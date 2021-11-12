@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Documents/Code/Udacity/class/genre_classification/mlruns/0/7d66daae153f47debc2fc7271edb61c3/artifacts
+end_time: 1636746268679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7d66daae153f47debc2fc7271edb61c3
+run_uuid: 7d66daae153f47debc2fc7271edb61c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636746262584
+status: 4
+tags: []
+user_id: macbook
